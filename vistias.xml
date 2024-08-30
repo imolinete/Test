@@ -8,9 +8,9 @@
   <item>
     <title>Hoy nos visita (XML)</title>
     <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>Hugo Trigueros
-      Israel Moli
-      Josep Picon
+    <description>Visitor 1
+      Visitor 2
+      visitor 3
     </description>
   </item>
 </channel>
